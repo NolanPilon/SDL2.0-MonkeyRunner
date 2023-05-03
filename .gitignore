@@ -1,0 +1,4 @@
+#ignore debug and .vs
+*Debug
+*.vs
+*desktop.ini
